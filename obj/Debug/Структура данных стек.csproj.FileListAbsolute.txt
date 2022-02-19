@@ -1,0 +1,10 @@
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\bin\Debug\Структура данных стек.exe.config
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\bin\Debug\Структура данных стек.exe
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\bin\Debug\Структура данных стек.pdb
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура данных стек.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура_данных_стек.Form1.resources
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура_данных_стек.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура данных стек.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура данных стек.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура данных стек.exe
+C:\Users\Андрей\Desktop\Учеба\АиСД\Curse\Структура данных стек\obj\Debug\Структура данных стек.pdb
